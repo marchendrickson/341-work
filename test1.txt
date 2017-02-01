@@ -1,0 +1,7 @@
+Name: Marc Hendrickson
+Date: 01/31/2017
+
+This is my first text document for MART 340 - Web Development.
+
+
+This is a mew line in my first text document.
