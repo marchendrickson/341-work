@@ -1,0 +1,3 @@
+This is a new file that I have created using the command prompt screen in Source Tree.
+
+I am really starting to figure this out!! Hopefully no more roadblocks.
