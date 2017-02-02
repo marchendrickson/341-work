@@ -2,13 +2,12 @@ Name: Marc Hendrickson
 Date: 01/31/2017
 
 This is my first text document for MART 340 - Web Development. Wow!
-This has not been altered!
+This has been altered!
 
 I added this file via text editor.
 
 
 Add a new line.
 And Another.
-
-
 sweet!
+I might be figuring this out now!
