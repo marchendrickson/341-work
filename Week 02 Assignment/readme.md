@@ -16,6 +16,7 @@ We were introduced to some new applications this week, which included:
 
 I found it very interesting how these programs were able to communicate between each other and updated so fast after I made changes to the documents I was working on. I find using the Powershell on my Windows system to be extremely hard to learn however, I did like working with the command prompt on SourceTree. I was able to see what work I had yet to do using commands like:`git status`, `git init`, and `git commit`.
 capture.png
+
 I helped out my fellow students as much as I could by replying to @gordonty's issue.
 
 I ended up with a readme.md file that looks like; ![ my screenshot ](capture.png)
