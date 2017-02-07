@@ -5,6 +5,7 @@
 ## * Introduction *
 
 I had a very hard time with small errors this week. Specifically, being able to push to my GitHub repository from SourceTree. I kept thinking that I could publish my repository straight from SourceTree, this however did not work. Once I figured out that I needed to create a repository online before I could push to it everything went very smoothly for me. Some resources I used for to figure out the problems I had this week are:
+
 1. Fellow Students
 2. The forums on [Atlassian](https://answers.atlassian.com/)
 3. Typing a question in the https://github.com/ search engine
