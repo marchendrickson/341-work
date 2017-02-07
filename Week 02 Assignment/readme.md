@@ -20,4 +20,4 @@ capture.png
 
 I helped out my fellow students as much as I could by replying to @gordonty's issue.
 
-I ended up with a readme.md file that looks like; ![ my screenshot ](capture.png)
+I ended up with a readme.md file that looks like; ![ my screenshot ](https://raw.githubusercontent.com/marchendrickson/341-work/master/Week%2002%20Assignment/Capture.PNG)
