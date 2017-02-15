@@ -18,6 +18,7 @@ I was also excited because I ran into some coding language in my Intro GIS class
 
 ## *Conclusion*
 I am very excited to be able to create my own website from scratch. I have already come up with some sites that I want to create like:
+
 1. A guide to backcountry skiing around Missoula
 2. A source for links to different weather/snowfall predictions
 3. A blog on the backpacking, climbing, skiing, and biking adventures that I go on
