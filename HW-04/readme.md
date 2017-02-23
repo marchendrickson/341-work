@@ -25,4 +25,4 @@ website it might have simple code that I could understand. However, I quickly
 realized that I was wrong. Just the intro to the actual code that shows up on
 the regular screen was longer than the code I wrote for this week's assignment.
 I did however find some code that I knew, it only took about 4-5 minutes looking
-the rest of the code which still looks like gibberish to me. (noaa screenshot)[https://github.com/marchendrickson/341-work/blob/master/HW-04/Noaa_Screensht.PNG]
+the rest of the code which still looks like gibberish to me. ![NOAA screenshot](Noaa_Screensht.PNG)
