@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="utf-8">
+  <title> Wahoo Snow and Mountains! </title>
+</head>
+<body background="img/Rogers.JPG" alt="Skiing on Rogers Pass, BC">
+
+<h1>
+  <center>
+  <img src="img/Maleskier.JPG" alt="male skier icon" title="male skier" width="100" height="100">
+  Winter in the <i>Rocky Mountains</i>
+  <img src="img/Femaleskier.jpeg" alt="female skier icon" title="female skier" width="100" height="100">
+</center>
+</h1>
+<hr/>
+<hr/>
+
+<form class="Winter_Rocky" action="index.html"method="get">
+  <fieldset>
+    <legend> Contact </legend>
+    <label> Name:<br/><input type="text"name="name"placeholder="name" autofocus required></label><br/>
+    <label>Email:<br/><input type="text"name="email"placeholder="email"><label><br/>
+    <legend>Where ya goin for a rip? Eh? </legend>
+    <select name="Where_To_Ski">
+      <option value="BC">British Columbia</option>
+      <option value="AB">Alberta</option>
+      <option value="MT" selected>Montana</option>
+      <option value="ID">Idaho</option>
+      <option value="WY">Wyoming</option>
+      <option value="CO">Colorado</option>
+      <option value="UT">Utah</option>
+      <option value="NM">New Mexico</option>
+    </select>
+  </fieldset>
+
+  <fieldset>
+    <p>
+      How do you recreate?
+      <br/>
+      <input type="radio" name="recreate" value"ski"/> Ski <br/>
+      <input type="radio" name="recreate" value"snowboard"/>Snowboard<br/>
+      <input type="radio" name="recreate" value"Snowmobile"/>Snowmobile<br/>
+      <input type="radio" name="recreate" value"Snowshoe"/>Snowshoe<br/>
+      <input type="radio" name="recreate" value"Fatebike"/> Fat Bike <br/>
+      <input type="radio" name="recreate" value"Curling"/>Curling<br/>
+      <input type="radio" name="recreate" value"Dont_Have_Fun"/>Go to a Warmer Climate<br/>
+  </fieldset>
+
+  <fieldset>
+    <p>Here is an awesome picture I took in Colorado.</p>
+    <img src=img/Telluride.JPG alt="A sunrise in a mountain valley" title"A Telluride Sunrise" width="428"height="320">
+    <p>Upload an awesome picture you took in the winter:</P>
+      <input type="file"name="user_image"/><br/>
+  </fieldset>
+
+</form>
