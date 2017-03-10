@@ -1,6 +1,6 @@
 ### Marc Hendrickson Sec:51
 
-#**Assignment 6**
+#** Assignment 6 **
 
 ## Work
 
