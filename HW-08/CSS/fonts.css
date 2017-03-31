@@ -1,0 +1,26 @@
+@font-face {
+  font-family:'merriweather';
+  src: url('../fonts/merriweather.ttf') format('opentype');
+  font-weight :normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family:'vidaloka';
+  src: url('../fonts/vidaloka.ttf') format('opentype');
+  font-weight: bold;
+  font-style:normal;
+}
+
+@font-face {
+  font-family:'raleway';
+  src: url('../fonts/raleway.ttf') format('opentype');
+  font-weight: normal;
+  font-style:normal;
+}
+ @font-face {
+   font-family:'vidaloka-bold';
+   src: url('../fonts/vidaloka-bold.ttf') format ('opentype');
+   font-weight:bolder;
+   font-style:normal;
+ }
