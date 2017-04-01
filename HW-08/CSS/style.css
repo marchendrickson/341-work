@@ -1,23 +1,23 @@
 
 .pageheader {
   background-color: #935347;
-  font-family:'vidaloka-bold', serif;
+  font-family: 'vidaloka-bold', serif;
   border:solid;
   padding: 10px;
   padding-top: 20px;
       }
 .header {
   background-color: #ede9ce;
-  font-family:'vidaloka',serif;
+  font-family: 'vidaloka', serif;
   padding: 10px;
   border: solid;
       }
 .textblock {
   background-color: #c7ad88;
-  font-family:'raleway',sans-serif;
+  font-family: 'raleway', sans-serif;
   padding: 10px;
   line-height: 1.4em;
       }
 .quote{
-  font-family:"merriweather", cursive;
+  font-family: "merriweather", cursive;
       }
