@@ -1,5 +1,5 @@
 
-.page-header {
+.pageheader {
   background-color: #935347;
   font-family:'vidaloka-bold', serif;
   border:solid;
@@ -12,7 +12,7 @@
   padding: 10px;
   border: solid;
       }
-.text-block {
+.textblock {
   background-color: #c7ad88;
   font-family:'raleway',sans-serif;
   padding: 10px;
