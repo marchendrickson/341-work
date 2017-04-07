@@ -1,0 +1,53 @@
+.page_header{
+  background-color: rgba(236, 198, 63, 0.7);
+  padding-top:20px;
+  padding-bottom:20px;
+  border-bottom: 5px solid;
+  overflow:visible, scroll;
+}
+.title {
+    align-items: center;
+    padding: 10px;
+    margin-left: 0.25em;
+    font-size: 2.5em;
+    font-family: 'Cambo-Regular', serif;
+}
+
+.logo {
+    font-size: 5em;
+    float: right;
+    padding: 10px;
+    margin-right: 0.25em;
+}
+
+.logo img {
+    height: 70px;
+}
+
+.slogan{
+  background-color:rgba(85, 170, 207,1);
+font-family: 'Cambo-Regular', serif;
+font-weight: lighter;
+float: left;
+padding-top:10px;
+padding-right:50px;
+border-top:5px solid;
+border-bottom: 5px solid;
+border-bottom-right-radius:80px 50px;
+-moz-border-radius-bottom-right: 80px 50px;
+-webkit-border-radius-bottom-right:80px 50px;
+}
+
+.menu{
+  background-color: rgba(85, 170, 207, 0.73);
+  padding-top:5px;
+}
+.menu li{
+  padding-left:20px;
+  display:inline;
+  margin-right:float;
+  margin-left:float;
+}
+.menu li:hover{
+  font-size: 2em;
+}
