@@ -7,10 +7,10 @@
 }
 .title {
     align-items: center;
-    padding: 10px;
-    margin-left: 0.25em;
-    font-size: 2.5em;
-    font-family: 'Cambo-Regular', serif;
+    padding: 2px;
+    margin-left: 6em;
+    font-size: 5em;
+    font-family: 'Christmas', serif;
 }
 
 .logo {
@@ -26,10 +26,11 @@
 
 .slogan{
   background-color:rgba(85, 170, 207,1);
-font-family: 'Cambo-Regular', serif;
+font-family: 'Christmas', serif;
 font-weight: lighter;
+font-size: 1.5em;
 float: left;
-padding-top:10px;
+padding-top:21px;
 padding-right:50px;
 border-top:5px solid;
 border-bottom: 5px solid;
@@ -44,10 +45,22 @@ border-bottom-right-radius:80px 50px;
 }
 .menu li{
   padding-left:20px;
-  display:inline;
+  display:inline-block;
+  font-size: 1.1em;
+  font-family: 'fingerpaint';
   margin-right:float;
   margin-left:float;
 }
 .menu li:hover{
   font-size: 2em;
+  font-family: 'fingerpaint', sans-serif;
+}
+
+
+.paragraph {
+  width:400px;
+  font-size: 1em;
+ font-family: 'CabinCondensed-Regular', sans-serif;
+ text-align: center;
+ background-color: rgb(0, 0, 0);
 }

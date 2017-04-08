@@ -1,0 +1,13 @@
+@font-face {
+  font-family:'Christmas';
+  src:url('../fonts/christmas.ttf');
+  font-weight:normal;
+  font-style: normal;
+}
+
+@font-face{
+  font-family: 'fingerpaint';
+  src:url('../fonts/finger.ttf');
+  font-weight:normal;
+  font-style: normal;
+}
