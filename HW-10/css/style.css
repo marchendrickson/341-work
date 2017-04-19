@@ -6,41 +6,41 @@
 header{
   width:100%;
   order:1;
-  background-color: rgb(183, 245, 29);
+  background-color: #4ABDAC;
   text-align: center;
 }
 .nav{
   width:100%;
   order:2;
-  background-color: rgb(213, 93, 90);
+  background-color: #FC4A1A;
   justify-content: center;
 }
 .para-one{
 width:100%;
   order:3;
-  background-color: rgb(0, 251, 48);
+  background-color: #F78733;
   text-align: center;
   flex-shrink: 1;
+  border-bottom: 2px solid;
 }
 .para-two{
   width: 100%;
   order:4;
-  background-color: rgb(36, 0, 255);
+  background-color: #F78733;
   text-align: center;
-
 }
 .para-three{
   width:100%;
   order:5;
-  background-color: rgb(255, 0, 158);
+  background-color: #4ABDAC;
   text-align: center;
-
+  margin:auto;
 }
 
 .footer{
   width:100%;
   order:6;
-  background-color: rgb(255, 6, 29);
+  background-color: #FC4A1A;
   text-align:center;
 }
 
@@ -48,25 +48,32 @@ width:100%;
   display: inline-block;
   padding-left: 10px;
   padding-right: 10px;
-  border: 5px solid;
+  border: 5px solid #4ABDAC;
   margin-top: 1%;
   margin-bottom:1%;
+  text-decoration-color: #DFDCE3;
 }
 .nav a:hover{
-  background-color: rgb(34, 93, 228);
+  background-color:#4ABDAC;
 }
 
 @media screen and (min-width:600px) and (max-width:799px){
   .para-two{width:50%; order:6;}
   .para-three{width:100%; order:3;}
-  .para-one{width:50%; order:5;}
+  .para-one{width:49%; order:5;border-right: 1px solid; border-bottom: none;}
+  .container{background-color:#4ABDAC;}
 }
 
 @media screen and (min-width:800px){
 .para-three{width:100%; order:4;}
-.para-one{width:37.5%; order:3; text-align: left;}
-.para-two{width:37.5%; order:3; text-align: left;}
-.nav{width:25%; order:-1;}
-.header{width:100%; order:-2;display:block;}
-.container{margin-left: auto;margin-right: auto;}
+.para-one{width:37%; order:3; text-align: left; border-bottom: none;margin: auto;}
+.para-two{width:37%; order:3; text-align: left; margin: auto; margin-top: 20px;}
+.nav{max-width: 150px; order:1;}
+.header{width:100%;order:-1;border:solid 5px #FC4A1A }
+.container{background-color:#4ABDAC;}
+}
+@media screen and (min-width:801px){
+  .para-three{max-width:801px; order:4;}
+  .para-two{max-width: 350px;}
+  .para-one{max-width: 350px;}
 }
