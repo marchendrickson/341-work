@@ -22,7 +22,7 @@ width:100%;
   background-color: rgb(247, 135, 51);
   text-align: center;
   flex-shrink: 1;
-  border-bottom: 2px solid;
+  border-bottom: 5px solid rgb(252, 74, 26);
   font-family: 'source';
 }
 .para-two{
@@ -67,7 +67,7 @@ width:100%;
 @media screen and (min-width:600px) and (max-width:799px){
   .para-two{width:50%; order:6;}
   .para-three{width:100%; order:3;}
-  .para-one{width:49%; order:5;border-right: 1px solid; border-bottom: none;}
+  .para-one{width:49%; order:5;border-right: 5px solid rgb(252, 74, 26); border-bottom: none;}
   .container{background-color:rgb(74, 189, 172);}
 }
 
