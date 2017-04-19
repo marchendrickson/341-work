@@ -68,4 +68,5 @@ width:100%;
 .para-two{width:37.5%; order:3; text-align: left;}
 .nav{width:25%; order:-1;}
 .header{width:100%; order:-2;display:block;}
+.container{margin-left: auto;margin-right: auto;}
 }
