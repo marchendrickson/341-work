@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'hand';
+  src:url(../font/justanotherhand.ttf);
+  font-style: normal;
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: 'indie';
+  src:url(../font/indie.ttf);
+  font-style: normal;
+  font-weight: normal;
+}
